@@ -30,19 +30,19 @@
   </distributionManagement>
 
   <build>
-         <plugin>
-      <groupId>org.sonarsource.scanner.maven</groupId>
-      <artifactId>sonar-maven-plugin</artifactId>
-      <version>4.0.0.4121</version> <!-- Assure-toi que cette version est compatible avec ta version de Java -->
-      <executions>
-        <execution>
-          <goals>
-            <goal>sonar</goal>
-          </goals>
-        </execution>
-      </executions>
-    </plugin>
     <plugins>
+             <plugin>
+               <groupId>org.sonarsource.scanner.maven</groupId>
+               <artifactId>sonar-maven-plugin</artifactId>
+               <version>4.0.0.4121</version> <!-- Assure-toi que cette version est compatible avec ta version de Java -->
+               <executions>
+                 <execution>
+                   <goals>
+                     <goal>sonar</goal>
+                   </goals>
+                 </execution>
+               </executions>
+             </plugin>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
