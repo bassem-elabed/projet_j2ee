@@ -114,10 +114,10 @@
 
         <div class="spinner"></div>
 
-        <a class="button" href="mailto:support@example.com">Nous contacter</a>
+        <a class="button" href="mailto:bassemelabed2@gmail.com">Nous contacter</a>
 
         <footer>
-            &copy; 2025 Votre Entreprise. Tous droits réservés.
+            &copy; 2025 Bassem El Abed. Tous droits réservés.
         </footer>
     </div>
 
