@@ -117,7 +117,7 @@
         <a class="button" href="mailto:bassemelabed2@gmail.com">Nous contacter</a>
 
         <footer>
-            &copy; 2025 Bassem El Abed Pipeline. Tous droits réservés.
+            &copy; 2025 Bassem El Abed. Tous droits réservés.
         </footer>
     </div>
 
