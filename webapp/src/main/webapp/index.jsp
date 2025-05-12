@@ -109,7 +109,7 @@
 <body>
 
     <div class="container">
-        <h1>Nous revenons bientôt&nbsp;!</h1>
+        <h1>Pipeline Jenkins Maven SonarQube Tomcat&nbsp;!</h1>
         <p>Notre site est actuellement en maintenance afin d'améliorer nos services.<br>Merci pour votre patience&nbsp;!</p>
 
         <div class="spinner"></div>
@@ -117,7 +117,7 @@
         <a class="button" href="mailto:bassemelabed2@gmail.com">Nous contacter</a>
 
         <footer>
-            &copy; 2025 Bassem El Abed Pipeline. Tous droits réservés.
+            &copy; 2025 Bassem El Abed . Tous droits réservés.
         </footer>
     </div>
 
