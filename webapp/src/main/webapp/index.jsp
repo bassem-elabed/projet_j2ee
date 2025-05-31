@@ -109,7 +109,7 @@
 <body>
 
     <div class="container">
-        <h1>Capture&nbsp;!</h1>
+        <h1>Nous revenons bientôt !&nbsp;!</h1>
         <p>Notre site est actuellement en maintenance afin d'améliorer nos services.<br>Merci pour votre patience&nbsp;!</p>
 
         <div class="spinner"></div>
